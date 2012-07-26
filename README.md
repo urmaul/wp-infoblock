@@ -6,8 +6,8 @@ WP plugin to edit some global variables on admin page.
 Variables
 ------
 
-title - string
-text - text (html)
+* title - string
+* text - text (html)
 
 API
 ---
