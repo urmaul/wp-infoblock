@@ -3,7 +3,7 @@ WP Infoblock
 
 WP plugin to edit some global variables on admin page.
 
-Fields
+Variables
 ------
 
 title - string
