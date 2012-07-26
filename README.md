@@ -13,4 +13,5 @@ API
 ---
 
 getInfoblockVar($name) - returns infoblock variable content
+
 infoblockVar($name) - echoes infoblock variable content
